@@ -155,4 +155,3 @@ fridger-agent-github/
 ---
 
 **Made with ❤️ using Google ADK**
-

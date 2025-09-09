@@ -1,0 +1,20 @@
+[
+    {
+        "pattern": "`[^`]+`"
+    },
+    {
+        "pattern": "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}"
+    },
+    {
+        "pattern": "https?://[a-zA-Z0-9./?#_\\-]+(\\.[a-zA-Z]{2,})+"
+    },
+    {
+        "pattern": "[a-zA-Z0-9-]+\\.(com|net|kr|co\\.kr|org)"
+    },
+    {
+        "pattern": "\\b[A-Z0-9]+(?:_[A-Z0-9]+)+\\b"
+    },
+    {
+        "pattern": "\\b[A-Z]{2,}\\b"
+    }
+]
